@@ -1,0 +1,20 @@
+{
+    "name": "verwi/shanqiu",
+    "description": "sdk",
+    "type": "library",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "authors": [
+        {
+            "name": "verwirrt",
+            "email": "2432775177@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "ShanQiu\\":"./src"
+        }
+    }
+}
